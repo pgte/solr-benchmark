@@ -25,6 +25,7 @@
     "solr-client": "~0.2.7",
     "boganipsum": "~0.1.0",
     "node-uuid": "~1.4.1",
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "summary": "~0.3.0"
   }
 }
