@@ -1,0 +1,30 @@
+{
+  "name": "solr-benchmark",
+  "version": "0.0.1",
+  "description": "Solr Benchmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pgte/solr-benchmark.git"
+  },
+  "keywords": [
+    "solr",
+    "benchmark"
+  ],
+  "author": "pgte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgte/solr-benchmark/issues"
+  },
+  "dependencies": {
+    "benchmark": "~1.0.0",
+    "microtime": "~0.4.0",
+    "solr-client": "~0.2.7",
+    "boganipsum": "~0.1.0",
+    "node-uuid": "~1.4.1",
+    "async": "~0.2.9"
+  }
+}
